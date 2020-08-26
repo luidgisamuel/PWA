@@ -1,2 +1,2 @@
-# PWA
-Exemplo de PWA como atividade da disciplina de Front-End do curso de Desenvolvimento Web.
+Execute nmp install -g serve;
+Para abrir o projeto execute o comando: serve .
