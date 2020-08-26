@@ -1,0 +1,10 @@
+{
+  "articles": [
+    {
+      "title": "O cachorro não conseguiu encontrar os jornais, mas ele achou a bola :)",
+      "url": "",
+      "urlToImage": "images/fetch-dog.jpg",
+      "description": "Tente carregar a página novamente quando estiver online."
+    }
+  ]
+}
